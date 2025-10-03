@@ -2,7 +2,7 @@
 
 ## 🎓 Sobre mí  
 Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con interés en el desarrollo móvil, web y la programación en general.  
-He realizado prácticas en **NTT DATA**, donde aprendí a trabajar en proyectos reales en equipo y a aplicar buenas prácticas de desarrollo.  
+He realizado prácticas en **NTT DATA**, donde aprendí a trabajar en proyectos en equipo y a aplicar buenas prácticas de desarrollo.  
 
 ---
 
